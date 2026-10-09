@@ -1,0 +1,5 @@
+What is Linear Regression ?
+Distinguish between Precision and Recall
+What is the formula for the soft-max function ?
+What is Simulated Annealing ?
+What is the difference between a pmf and a pdf ?
